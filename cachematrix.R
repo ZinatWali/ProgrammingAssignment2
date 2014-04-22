@@ -1,5 +1,4 @@
-## Put comments here that give an overall description of what your
-## functions do
+##creates and manages a cache of matrices and their inverses
 
 ## caches the supplied matrix and its mean
 
